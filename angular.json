@@ -14,7 +14,7 @@
           "builder": "@angular/build:application",
           "options": {
             "browser": "src/main.ts",
-            "index": "src/main.ts",
+            "index": "src/index.html",
             "outputPath": "dist/angularNuevo",
             "baseHref": "/angularNuevo/",
             "tsConfig": "tsconfig.app.json",
